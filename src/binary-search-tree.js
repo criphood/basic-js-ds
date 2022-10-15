@@ -159,6 +159,9 @@ tree.remove(9);
 console.log(tree.max())
 console.log(tree);
 
+
+// console.log(tree);
+
 module.exports = {
   BinarySearchTree
 };
