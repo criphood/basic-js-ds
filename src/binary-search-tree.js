@@ -146,11 +146,11 @@ let tree = new BinarySearchTree();
 
 tree.add(9);
 tree.add(14);
-tree.add(123131);
-tree.add(6);
+tree.add(123);
+tree.add(61212);
 tree.add(128);
 tree.add(8);
-tree.add(8534);
+tree.add(85434);
 tree.add(54);
 tree.add(1);
 tree.remove(8);
